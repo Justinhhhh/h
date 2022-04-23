@@ -1,14 +1,22 @@
-# Welcome to Sparkify Churn Data
+# SC1015 - Project 
 
 ## About
 
-This is a Mini-Project for CS1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Sparkify from [Udacity](http://udacity-dsnd.s3.amazonaws.com/sparkify/mini_sparkify_event_data.json). 
+This is a Mini-Project for CS1015 Introduction to Data Science and Machine Learning
   
 ## Contributors
 
-- @AloysiusTan - Code (Data Visualization, Data Extraction, Feature Engineering, Modelling, Value Proposition)
-- @Yu En - Data Visualization, Data Extraction and Slides
-- @Andy - Data Visualization, Data Extraction and Slides
+- @Han Zhiguang 
+- @Tan Jin Shan 
+- @NGUYEN GIA KHANH
+
+<h2> Overview of Project </h2> 
+  <ol>
+    <li> Define Problem Statement </li> 
+    <li> Data Preparation and Exploratory Data Analysis (EDA) </li> 
+    <li> Machine Learning  </li> 
+    <li> Conclusion :D </li> 
+  </ol>
 
 ## Problem Definition
 
